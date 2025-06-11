@@ -1,6 +1,13 @@
 ## Installing Jenkins on Ubuntu
 
 
+
+**Notes**
+  - install jenkins
+  - install docker
+
+
+
 ```bash
 #!/bin/bash
 

@@ -1,5 +1,11 @@
 ## Install Plugins in Jenkins
 
+**Notes**
+   - plugin install: Eclipse Temurin | Pipeline Maven Integratio | Config File Provider | SonarQube Scanner | Kubernetes CLI | Kubernetes 
+                    | Docker | Docker Pipeline Step 
+   - config the plugins
+   - config pipeline
+
 1. **Eclipse Temurin Installer**:
    - This plugin enables Jenkins to automatically install and configure the Eclipse Temurin JDK (formerly known as AdoptOpenJDK).
    - To install, go to Jenkins dashboard -> Manage Jenkins -> Manage Plugins -> Available tab.

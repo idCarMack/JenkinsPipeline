@@ -1,5 +1,10 @@
 # SetUp Nexus
 
+**Notes**
+  - install docker
+  - create Nexus using docker container
+  - change pwd
+
 ```bash
 #!/bin/bash
 

@@ -1,5 +1,10 @@
 # SetUp SonarQube
 
+**Notes**
+  - install docker
+  - create Sonarqube using docker container
+  - change pwd
+
 ```bash
 #!/bin/bash
 
